@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Normal text */
+body {
+  color: #111111;
+  background: #ffffff;
+}
+
+/* Links */
+a {
+  color: #0b57d0;
+}
+
+/* Code blocks + inline code */
+pre, code, .highlight {
+  background: #0b1020;
+  color: #e6e6e6;
+}
+
+/* Make code blocks readable */
+pre {
+  padding: 12px;
+  border-radius: 10px;
+  overflow-x: auto;
+}
