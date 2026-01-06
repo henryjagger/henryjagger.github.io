@@ -1,7 +1,0 @@
----
-layout: default
----
-
-# Financial News Notes
-
-Short, data-driven responses to markets, macro, and earnings.
