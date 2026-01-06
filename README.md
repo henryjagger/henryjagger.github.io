@@ -1,1 +1,1 @@
-# henryjagger.github.io
+remote_theme: Minimal
